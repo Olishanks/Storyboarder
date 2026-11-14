@@ -42,14 +42,14 @@ export const IconMinus = () => (
 );
 export const IconUndo = () => (
   <Icon>
-    <path d="M8 6L4 10l4 4" />
-    <path d="M4 10h10a6 6 0 010 12h-3" transform="translate(0 -3)" />
+    <path d="M8 5L4 9l4 4" />
+    <path d="M4 9h11a5 5 0 010 10h-5" />
   </Icon>
 );
 export const IconRedo = () => (
   <Icon>
-    <path d="M16 6l4 4-4 4" />
-    <path d="M20 10H10a6 6 0 000 12h3" transform="translate(0 -3)" />
+    <path d="M16 5l4 4-4 4" />
+    <path d="M20 9H9a5 5 0 000 10h5" />
   </Icon>
 );
 export const IconPlay = () => (
